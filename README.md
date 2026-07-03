@@ -45,11 +45,22 @@ source .venv/bin/activate
 
 ```bash
 pip install --upgrade pip
-pip install jupyter
+pip install -r requirements.txt
 jupyter notebook
 ```
 
 Open `Python_Basics_for_Beginners.ipynb` in the browser and follow the sections.
+
+## Get Started
+
+Once the virtual environment is active, run:
+
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
+
+Then open `Python_Basics_for_Beginners.ipynb` and select the `Python (.venv)` kernel if needed.
 
 ## Structure
 
