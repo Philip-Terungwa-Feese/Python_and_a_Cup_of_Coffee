@@ -49,7 +49,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Open `Python_Basics_for_Beginners.ipynb` in the browser and follow the sections.
+4. Open `Python_Basics_for_Beginners.ipynb` in the browser and select the `Python (.venv)` kernel.
 
 ## Get Started
 
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Then open `Python_Basics_for_Beginners.ipynb` and select the `Python (.venv)` kernel if needed.
+When the notebook opens, choose the `Python (.venv)` kernel from the Kernel menu if it is not already selected.
 
 ## Structure
 
