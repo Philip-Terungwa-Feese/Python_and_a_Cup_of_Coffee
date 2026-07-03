@@ -79,3 +79,12 @@ For questions or suggestions, open an issue in this repository.
 ---
 
 Happy learning! 👩‍💻👨‍💻
+
+---
+
+## Repository Status
+
+- License: MIT ([LICENSE](LICENSE))
+- Notebooks: `Python_Basics_for_Beginners.ipynb`, `2026_Python_Programming_Notebook.ipynb`
+
+If you'd like these changes committed and pushed to the remote, tell me and I'll push them for you.
