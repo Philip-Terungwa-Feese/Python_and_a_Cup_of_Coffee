@@ -29,17 +29,19 @@ git clone https://github.com/Philip-Terungwa-Feese/Python_and_a_Cup_of_Coffee.gi
 cd Python_and_a_Cup_of_Coffee
 ```
 
-2. (Optional) Create and activate a virtual environment:
+2. Create and activate the project virtual environment:
 
 ```bash
 python -m venv .venv
-# Windows
+# Windows PowerShell
+.venv\Scripts\Activate.ps1
+# Windows CMD
 .venv\Scripts\activate
 # macOS / Linux
 source .venv/bin/activate
 ```
 
-3. Install Jupyter (if needed) and start the notebooks:
+3. Install the project dependencies and start the notebooks:
 
 ```bash
 pip install --upgrade pip
